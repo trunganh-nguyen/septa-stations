@@ -1,0 +1,230 @@
+﻿bike_rack,id,latitude,longitude,name,parking,service_line,service_lines_detailed,wheelchair_accessible
+TRUE,1,39.9971867,-75.1552516,North Philadelphia Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+FALSE,2,39.987022,-75.156027,Susquehanna-Dauphin Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,3,39.9787028,-75.1578545,Cecil B. Moore Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+FALSE,4,39.97145868,-75.16128738,Girard Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+FALSE,5,39.9667214,-75.1604896,Fairmount Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+FALSE,6,39.9623747,-75.1617103,Spring Garden Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+FALSE,7,39.9575278,-75.162342,Race-Vine Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,8,40.0245488,-75.147881,Wyoming Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,9,39.9509749,-75.1535107,8th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+FALSE,11,39.9493719,-75.1644572,Walnut-Locust Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,12,40.016933,-75.149483,Hunting Park Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,14,39.952465,-75.164062,City Hall Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,16,40.0094051,-75.1514199,Erie Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,17,40.0415476,-75.1351024,Fern Rock Transportation Center,TRUE,Broad Street Line,Broad Street Line,TRUE
+TRUE,18,40.0387783,-75.1444341,Olney Transportation Center,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,19,39.9437859,-75.1654817,Lombard-South Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,20,39.936189,-75.1671304,Ellsworth-Federal Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,21,39.9298036,-75.1685159,Tasker-Morris Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,22,39.9243588,-75.1697091,Snyder Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+TRUE,23,39.9168147,-75.1711282,Oregon Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,24,39.905082,-75.1732357,NRG Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,26,40.0015051,-75.1531295,Allegheny Station,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,27,40.0299677,-75.1466785,Logan Station,FALSE,Broad Street Line,Broad Street Line,FALSE
+FALSE,2,40.016869,-75.084202,Arrott Transportation Center,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,3,40.0104751,-75.0889715,Church Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,4,40.0060269,-75.0963976,Erie-Torresdale Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,5,40.0002974,-75.106573,Tioga Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,6,39.9963677,-75.1139736,Allegheny Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,7,39.9914837,-75.1226218,Somerset Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,8,39.988803,-75.127274,Huntingdon Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,9,39.985162,-75.1321778,York-Dauphin Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,10,39.978626,-75.133448,Berks Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,11,39.9692414,-75.1361803,Girard Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,12,39.9605406,-75.1403588,Spring Garden Station,FALSE,Market-Frankford Line,Market-Frankford Line,FALSE
+TRUE,13,39.9499086,-75.143766,2nd Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,14,39.9505596,-75.1489336,5th Street/Independence Hall Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,15,39.9509749,-75.1535107,8th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,16,39.951764,-75.158322,11th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,FALSE
+TRUE,17,39.952532,-75.162559,13th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,18,39.9525184,-75.1653391,15th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,19,39.9557799,-75.1819683,30th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,20,39.9558604,-75.1914727,34th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,FALSE
+TRUE,21,39.9571644,-75.2019564,40th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,22,39.9585945,-75.2140298,46th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,23,39.959951,-75.2248951,52nd Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,24,39.960962,-75.232859,56th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,25,39.962027,-75.240757,60th Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,26,39.962714,-75.246767,63rd Street Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,27,39.9643947,-75.2524045,Millbourne Station,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,29,40.02308398,-75.07766969,Frankford Transportation Center,TRUE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,28,39.9621514,-75.2595532,69th Street Transportation Center,TRUE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,1,40.1128127,-75.343734,Norristown Transportation Center Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,TRUE
+FALSE,1,40.1048936,-75.3482236,Bridgeport Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,2,40.0988236,-75.3521375,Dekalb Street Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,3,40.0812829,-75.34886,Hughes Park Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,4,40.070878,-75.3423135,Gulph Mills Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,TRUE
+FALSE,5,40.0582567,-75.3395342,Matsonford Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,6,40.050117,-75.347424,County Line Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,7,40.0420402,-75.3535261,Radnor Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,8,40.038794,-75.3422186,Villanova Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,9,40.0326965,-75.3407222,Stadium Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,TRUE
+FALSE,10,40.04369736,-75.38132477,Garrett Hill Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,11,40.0214504,-75.3302311,Roberts Road Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,12,40.0179937,-75.3231912,Bryn Mawr Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,13,40.009768,-75.315182,Haverford Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,14,39.9998878,-75.3095571,Ardmore Avenue Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,15,39.99619,-75.302998,Ardmore Junction Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,16,39.9933524,-75.2980303,Wynnewood Road Station,TRUE,Norristown High Speed Line,Norristown High Speed Line,TRUE
+TRUE,17,39.986548,-75.291448,Beechwood-Brookline Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+TRUE,18,39.981015,-75.28404,Penfield Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,19,39.974773,-75.281619,Township Line Road Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,20,39.9687157,-75.2741416,Parkview Station,FALSE,Norristown High Speed Line,Norristown High Speed Line,FALSE
+FALSE,1,39.9128272,-75.2546956,Darby Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,2,40.0575151,-75.19474,Allen Lane Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,TRUE
+TRUE,3,40.2577778,-74.8152778,West Trenton Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,4,40.0021519,-75.7107696,Downingtown Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,5,40.1074981,-75.1107238,Rydal Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,6,40.1141695,-75.1532475,Ardsley Station,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+TRUE,7,40.0328782,-75.0238396,Holmesburg Junction Station,TRUE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,8,40.1044726,-75.1246647,Noble Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,9,39.8493373,-75.3599328,Chester Transportation Center Station,FALSE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+TRUE,10,40.1170857,-75.3487515,Main Street-Norristown Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,11,39.737065,-75.5509093,Wilmington Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+TRUE,12,40.0377172,-75.1719098,Germantown Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,13,40.0366438,-75.5154752,Malvern Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,14,40.0704511,-75.2112664,Highland Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+TRUE,15,40.1607688,-74.9131025,Langhorne Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,16,40.1469256,-74.9621985,Neshaminy Falls Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+FALSE,17,40.0513612,-75.1033938,Lawndale Station,FALSE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,18,39.98969,-75.249545,Overbrook Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+TRUE,19,40.2143301,-75.2774329,North Wales Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,20,40.2350552,-74.8311128,Yardley Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+TRUE,21,40.1402088,-74.9828185,Trevose Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+TRUE,22,39.8336453,-75.3928401,Highland Avenue Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+FALSE,24,39.9266348,-75.2902198,Clifton-Aldan Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+TRUE,25,40.0195261,-75.6218097,Exton Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+FALSE,26,40.0114656,-75.1920135,East Falls Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+FALSE,27,40.0141156,-75.3000009,Haverford Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+FALSE,28,40.0828893,-74.9336035,Eddington Station,FALSE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,29,40.1125748,-75.3441734,Norristown Transportation Center Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,30,40.2430727,-75.2851394,Lansdale Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,31,39.9079324,-75.3283187,Morton Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+TRUE,32,40.0734572,-75.196902,Wyndmoor Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+FALSE,33,40.1208474,-75.1340896,Roslyn Station,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+TRUE,34,40.0146629,-75.6380776,Whitford Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,35,40.297446,-75.1796364,New Britain Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+FALSE,36,39.997562,-75.2513429,Merion Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,37,40.2685104,-75.2541522,Colmar Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,38,40.0339903,-75.2354627,Ivy Ridge Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,39,39.9923567,-75.154524,North Broad Station,FALSE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,40,40.0652159,-75.1911223,Mt. Airy Station,FALSE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,41,40.0351873,-75.1868428,Tulpehocken Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+TRUE,42,40.022575,-75.159339,Wayne Junction Station,FALSE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,43,39.7977258,-75.4523299,Claymont Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+TRUE,44,40.1332572,-75.1185881,Crestmont Station,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+TRUE,45,40.1048651,-74.8547216,Bristol Station,TRUE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,46,40.0166401,-75.2102259,Wissahickon Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+FALSE,47,39.8880123,-75.3093579,Prospect Park Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,48,40.060456,-75.1788596,Stenton Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,49,39.9927778,-75.7636111,Thorndale Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+FALSE,50,39.907873,-75.4112396,Elwyn Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+TRUE,51,40.0773619,-75.2019445,Gravers Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+FALSE,52,39.9908643,-75.2256169,Wynnefield Avenue Station,TRUE,Regional Rail,Cynwyd Line Regional Rail,TRUE
+TRUE,53,40.1908746,-74.890977,Woodbourne Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,54,40.0931593,-75.1379743,Jenkintown-Wyncote Station,TRUE,Regional Rail,Airport Line Regional Rail,FALSE
+FALSE,55,40.038794,-75.3422186,Villanova Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+FALSE,56,39.9971867,-75.1552516,North Philadelphia Station,TRUE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,57,40.0759925,-75.0835729,Fox Chase Station,TRUE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,58,40.2878464,-75.2111977,Chalfont Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,59,39.9541282,-75.1668627,Suburban Station,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,60,40.0220202,-75.315842,Bryn Mawr Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,61,40.2501464,-75.2792099,9th Street Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,62,40.1208052,-75.3450033,Elm Street-Norristown Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,TRUE
+TRUE,63,40.1848405,-75.2568226,Gwynedd Valley Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,FALSE
+TRUE,64,39.9480556,-75.1902778,Penn Medicine Station (formerly University City Station),FALSE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,65,40.0440178,-75.3734985,St. Davids Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,66,39.6697378,-75.7535291,Newark Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+FALSE,67,39.9079704,-75.2648633,Curtis Park Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+FALSE,68,39.8718634,-75.3311028,Crum Lynne Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,69,39.9021852,-75.3511135,Swarthmore Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+FALSE,70,39.8962638,-75.2897242,Glenolden Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+FALSE,71,40.0037823,-75.1654056,Allegheny Station,FALSE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,72,40.0428278,-75.4836423,Paoli Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+FALSE,73,40.1181351,-75.1838806,Oreland Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,FALSE
+TRUE,74,40.0809235,-75.2078333,Chestnut Hill East Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,75,39.8918111,-75.244947,Eastwick Station,FALSE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,76,40.0544685,-74.984689,Cornwells Heights Station,TRUE,Regional Rail,Trenton Line Regional Rail,TRUE
+FALSE,78,39.9156844,-75.3098269,Secane Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+TRUE,79,39.6944296,-75.6730312,Churchmans Crossing Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+TRUE,80,40.1756041,-75.10292,Hatboro Station,TRUE,Regional Rail,Warminster Line Regional Rail,FALSE
+FALSE,81,39.9396196,-75.2560633,Fernwood-Yeadon Station,FALSE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+FALSE,82,39.8761022,-75.245808,Airport Terminal A,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,83,40.1436613,-75.1142683,Willow Grove Station,TRUE,Regional Rail,Warminster Line Regional Rail,FALSE
+TRUE,84,40.1402377,-74.8172511,Levittown Station,TRUE,Regional Rail,Trenton Line Regional Rail,TRUE
+TRUE,85,40.3062744,-75.1308249,Doylestown Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,86,40.023284,-75.1777774,Queen Lane Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,TRUE
+FALSE,87,40.0415476,-75.1351024,Fern Rock Transportation Center Station,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+TRUE,88,40.0047587,-75.2614792,Narberth Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,89,39.9372075,-75.2716102,Lansdowne Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+FALSE,90,39.9435382,-75.2163727,49th Street Station,FALSE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+FALSE,91,40.2187907,-74.754301,Trenton Transit Center,TRUE,Regional Rail,Trenton Line Regional Rail,TRUE
+TRUE,93,40.0720801,-75.3087953,Conshohocken Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,94,40.0768039,-75.2079133,Chestnut Hill West Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,TRUE
+FALSE,95,39.9447802,-75.2385704,Angora Station,FALSE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+TRUE,96,40.0428514,-75.4606163,Daylesford Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+FALSE,97,39.876313,-75.2447064,Airport Terminal B,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,98,40.0579282,-75.0929424,Cheltenham Station,TRUE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,99,40.0544685,-74.984689,Torresdale Station,TRUE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,100,40.1950793,-75.0888876,Warminster Station,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+FALSE,101,40.2739422,-75.246754,Link Belt Station,FALSE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,102,39.95575696,-75.18201245,30th Street Station,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+FALSE,103,40.0479524,-75.4423883,Berwyn Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+TRUE,104,40.1695977,-75.2441055,Penllyn Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,FALSE
+TRUE,105,40.1113873,-75.0925413,Meadowbrook Station,TRUE,Regional Rail,West Trenton Line Regional Rail,FALSE
+TRUE,106,40.04568709,-75.38936555,Wayne Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+FALSE,107,39.9036421,-75.371636,Wallingford Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+FALSE,108,39.9057323,-75.3881709,Moylan-Rose Valley Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+TRUE,109,40.0495652,-75.4037721,Strafford Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+TRUE,110,40.1353235,-75.2114085,Fort Washington Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,112,40.2595142,-75.2662005,Fortuna Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,FALSE
+TRUE,113,39.9216278,-75.2982782,Primos Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+FALSE,114,39.8574356,-75.3418463,Eddystone Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,115,40.1277491,-75.0208939,Forest Hills Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+TRUE,116,40.1012803,-75.153774,Glenside Station,TRUE,Regional Rail,Airport Line Regional Rail,FALSE
+TRUE,117,39.9003619,-75.2797312,Folcroft Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,118,40.0712248,-75.1279025,Elkins Park Station,TRUE,Regional Rail,Airport Line Regional Rail,FALSE
+TRUE,119,40.0658515,-75.2044834,St. Martins Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+FALSE,120,39.8772715,-75.2415546,Airport Terminal C & D,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+FALSE,122,40.2973086,-75.1617393,Delaware Valley University Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,123,39.8805893,-75.3221648,Ridley Park Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,124,40.0298585,-75.181202,Chelten Avenue Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+TRUE,125,40.0636896,-75.0867922,Ryers Station,TRUE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,126,40.002732,-75.2730879,Wynnewood Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,128,40.0595325,-75.1292658,Melrose Park Station,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,129,40.0423993,-75.1900834,Upsal Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+FALSE,130,40.0105897,-75.0698302,Bridesburg Station,FALSE,Regional Rail,Trenton Line Regional Rail,FALSE
+TRUE,131,40.0586186,-75.2663042,Miquon Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+FALSE,132,40.0448755,-75.359472,Radnor Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,TRUE
+TRUE,133,39.9816067,-75.1494514,Temple University Station,FALSE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,134,40.0936588,-74.906836,Croydon Station,TRUE,Regional Rail,Trenton Line Regional Rail,TRUE
+TRUE,135,39.6697378,-75.7535291,Newark Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+TRUE,136,40.07416,-75.2860693,Spring Mill Station,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,TRUE
+TRUE,137,40.063877,-75.184794,Sedgwick Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,138,40.2302922,-75.2817006,Pennbrook Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,139,40.1528168,-75.2244652,Ambler Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+FALSE,140,40.1165672,-75.0687409,Bethayres Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+FALSE,141,39.9328001,-75.2822055,Gladstone Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,FALSE
+FALSE,142,40.112114,-75.1698561,North Hills Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,FALSE
+FALSE,143,39.8911406,-75.3021215,Norwood Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+TRUE,144,40.0082965,-75.290293,Ardmore Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,145,40.1219662,-75.0438352,Philmont Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+FALSE,146,40.0334618,-75.1225775,Olney Station,TRUE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,148,39.9141322,-75.3946973,Media Station,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+TRUE,149,40.0509211,-75.1917324,Carpenter Station,TRUE,Regional Rail,Chestnut Hill West Regional Rail,FALSE
+TRUE,150,40.0269585,-75.2251933,Manayunk Station,FALSE,Regional Rail,Manayunk/Norristown Line Regional Rail,FALSE
+TRUE,151,40.0233598,-75.0391802,Tacony Station,FALSE,Regional Rail,Trenton Line Regional Rail,FALSE
+FALSE,152,40.0281052,-75.3274109,Rosemont Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+FALSE,153,39.9045846,-75.2707957,Sharon Hill Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE
+FALSE,154,40.0010089,-75.2278111,Bala Station,TRUE,Regional Rail,Cynwyd Line Regional Rail,TRUE
+TRUE,155,40.3062744,-75.1308249,Doylestown Station,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,156,40.0361467,-75.1616327,Wister Station,FALSE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+FALSE,157,40.2187907,-74.754301,Trenton Transit Center,TRUE,Regional Rail,Trenton Line Regional Rail,TRUE
+FALSE,158,40.0472291,-75.4228624,Devon Station,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+TRUE,160,40.1307012,-75.0120958,Somerton Station,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+TRUE,161,39.952497,-75.1580542,Jefferson Station,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,162,40.0510674,-75.1716332,Washington Lane Station,TRUE,Regional Rail,Chestnut Hill East Regional Rail,FALSE
+TRUE,163,40.006994,-75.2319838,Cynwyd Station,TRUE,Regional Rail,Cynwyd Line Regional Rail,TRUE
+FALSE,164,39.8790993,-75.239979,Airport Terminal E & F,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,165,39.821495,-75.4196646,Marcus Hook Station,TRUE,Regional Rail,Wilmington/Newark Line Regional Rail,FALSE

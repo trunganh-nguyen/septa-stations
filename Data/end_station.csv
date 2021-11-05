@@ -1,0 +1,18 @@
+﻿bike_rack,id,latitude,longitude,name,parking,service_line,service_lines_detailed,wheelchair_accessible
+TRUE,62,40.1208052,-75.3450033,Elm Street-Norristown,TRUE,Regional Rail,Manayunk/Norristown Line Regional Rail,TRUE
+TRUE,13,40.0366438,-75.5154752,Malvern,TRUE,Regional Rail,Paoli/Thorndale Line Regional Rail,FALSE
+FALSE,50,39.907873,-75.4112396,Elwyn,TRUE,Regional Rail,Media/Elwyn Line Regional Rail,TRUE
+TRUE,9,39.8493373,-75.3599328,Chester Trans. Cntr.,FALSE,Regional Rail,Wilmington/Newark Line Regional Rail,TRUE
+FALSE,82,39.8761022,-75.245808,Airport Terminal A,TRUE,Regional Rail,Airport Line Regional Rail,TRUE
+TRUE,24,39.905082,-75.1732357,NRG,FALSE,Broad Street Line,Broad Street Line,TRUE
+TRUE,1,40.1128127,-75.343734,Norristown Trans. Cntr.,FALSE,Norristown High Speed Line,Norristown High Speed Line,TRUE
+TRUE,139,40.1528168,-75.2244652,Ambler,TRUE,Regional Rail,Lansdale/Doylestown Line Regional Rail,TRUE
+TRUE,83,40.1436613,-75.1142683,Willow Grove,TRUE,Regional Rail,Warminster Line Regional Rail,FALSE
+FALSE,140,40.1165672,-75.0687409,Bethayres,TRUE,Regional Rail,West Trenton Line Regional Rail,TRUE
+TRUE,159,40.0759925,-75.0835729,Fox Chase,TRUE,Regional Rail,Fox Chase Line Regional Rail,TRUE
+TRUE,28,39.9621514,-75.2595532,69th St Trans. Cntr.,TRUE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,19,39.9557799,-75.1819683,30th St,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,13,39.9499086,-75.143766,2nd St,FALSE,Market-Frankford Line,Market-Frankford Line,TRUE
+FALSE,87,40.0415476,-75.1351024,Fern Rock Trans. Cntr.,TRUE,Regional Rail,Warminster Line Regional Rail,TRUE
+TRUE,29,40.02308398,-75.07766969,Frankford Trans. Cntr.,TRUE,Market-Frankford Line,Market-Frankford Line,TRUE
+TRUE,18,40.0387783,-75.1444341,Olney Trans. Cntr.,FALSE,Broad Street Line,Broad Street Line,TRUE
